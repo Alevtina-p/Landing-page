@@ -120,14 +120,14 @@ button {
     padding:80px 20px;
  }
     .block {
-        width: 1000px;
+        width: 900px;
         border:2px solid #3882f6;
         border-radius: 10px;
         background: #3882f6;
         display: flex;
         justify-content: space-between;
         align-items: center;
-        padding: 20px 60px;
+        padding: 30px 100px;
        }
              
     .block button {
@@ -144,4 +144,13 @@ button {
     }  
     .title3 {
         color: white;
+    }
+    footer {
+        background: #1f2937;
+        color: white;
+        height: 70px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
     }
